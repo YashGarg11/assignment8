@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg");background-repeat: no-repeat;
+    background-size: 1553px 800px;
+    font-family: Arial, sans-serif;
+    
+
+}
+.form{
+    background-image: url("https://cutewallpaper.org/21/blue-background-gif/Blue-Abstract-Light-Smoke-Video-Animation-Background-Loop-.gif");background-repeat: no-repeat;
+    background-size:300px 400px;
+    background-position-x: 1000px;
+    background-position: 39dvw;
+    padding: 10px;
+    margin:5px;
+    border-color: aqua;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    height: 100dvh;
+  
+}
